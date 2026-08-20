@@ -1,0 +1,7 @@
+{
+  "name": "Monkyfi Connect",
+  "description": "Practical AI for Telecom Operations - Human-led AI assessment, intake, and intelligence scorecard platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
